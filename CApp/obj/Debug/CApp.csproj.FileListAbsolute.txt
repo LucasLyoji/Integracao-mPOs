@@ -1,0 +1,14 @@
+C:\Users\Suporte Pagar.me\source\repos\CApp\CApp\bin\Debug\CApp.exe.config
+C:\Users\Suporte Pagar.me\source\repos\CApp\CApp\bin\Debug\CApp.exe
+C:\Users\Suporte Pagar.me\source\repos\CApp\CApp\bin\Debug\CApp.pdb
+C:\Users\Suporte Pagar.me\source\repos\CApp\CApp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Suporte Pagar.me\source\repos\CApp\CApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Suporte Pagar.me\source\repos\CApp\CApp\bin\Debug\PagarMe.dll
+C:\Users\Suporte Pagar.me\source\repos\CApp\CApp\bin\Debug\PagarMe.Mpos.dll
+C:\Users\Suporte Pagar.me\source\repos\CApp\CApp\bin\Debug\BouncyCastle.Crypto.pdb
+C:\Users\Suporte Pagar.me\source\repos\CApp\CApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Suporte Pagar.me\source\repos\CApp\CApp\obj\Debug\CApp.csprojAssemblyReference.cache
+C:\Users\Suporte Pagar.me\source\repos\CApp\CApp\obj\Debug\CApp.csproj.CoreCompileInputs.cache
+C:\Users\Suporte Pagar.me\source\repos\CApp\CApp\obj\Debug\CApp.csproj.CopyComplete
+C:\Users\Suporte Pagar.me\source\repos\CApp\CApp\obj\Debug\CApp.exe
+C:\Users\Suporte Pagar.me\source\repos\CApp\CApp\obj\Debug\CApp.pdb
